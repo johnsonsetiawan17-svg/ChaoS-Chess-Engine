@@ -1,0 +1,3 @@
+Added Micro NNUE
+fixed Bugs
+added Better Evaluation
